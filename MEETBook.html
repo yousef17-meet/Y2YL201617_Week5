@@ -1,0 +1,66 @@
+<html>
+
+
+<head>
+
+<link rel="stylesheet" href="styles/styles.css">
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-
+latest.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/
+jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+   $('body').click(function() {
+     var firstElement = $(this).first();
+     firstElement.css('background-color', 'red');
+});
+
+});
+
+</script>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-
+latest.min.js"></script>'''
+* Make sure that jQuery loaded and actually works. To do this, create a new script tag like so:
+'''<script type="text/javascript">
+  $(document).ready(function () {
+        alert('i love cats');
+  });
+</script>
+
+
+
+</head>
+
+<body>
+<h1> Welcome to the Rice-Store</h1>
+
+<div class = "posts">
+<<<<<<< HEAD:GeekBook.html
+  <h3>Hillary clinton</h3>
+  <img src='images/hillary2.jpg'>
+<p> I am a girl! girl!!! girl!!!!! </p>
+=======
+  <h3>Laura</h3>
+  <img src='images/avatar1.jpg'>
+<p> I Love MEET! </p>
+>>>>>>> d1533171307e2a0f8cc6c0e0698dbc6c3c6b5276:MEETBook.html
+</div>
+
+<div class = "posts">
+  <h3>Huhan</h3>
+  <img src='images/avatar2.png'>
+<p> oola amigo! my name is Huhan, and I am here to tell you I got the best rice in the world </p>
+</div>
+
+<div class = "posts">
+  <h3>Lorenzo</h3>
+  <img src='images/avatar3.jpg'>
+<p>You'll be a web dev ninja in no time!</p>
+</div>
+
+</body>
+
+
+</html>
