@@ -4,13 +4,15 @@
 
 # Week 5 - Intro to JavaScript
 In today's lab, you will be refreshing your JavaScript skills and creating a social media applicaiton called "MEETBook" ]
+
+
 __PLEASE REMEMBER TO SAVE YOUR WORK AND SUBMIT A PULL REQUEST WHEN YOU ARE FINISHED__
 
 ## Part 1 - JavaScript Basics
 You will be using a cool online editing program called JSFiddle to practice executing your code. Paste your answers in the answers.js file included in this lab.
 
 ### 1. Variables
-!(Variables.png)[path_goes_here]
+!(Variables.png)[images/variables.png]
 
 Perform each of these operations on a seperate line of code.
 -Declare a float variable called "temperature" and set it equal to 98.6
