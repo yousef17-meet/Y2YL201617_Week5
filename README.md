@@ -3,7 +3,7 @@
 
 
 # Week 5 - Intro to JavaScript
-In today's lab, you will be refreshing your JavaScript skills and creating a social media applicaiton called "MEETBook" ]
+In today's lab, you will be refreshing your JavaScript skills and creating a social media applicaiton called "MEETBook"
 
 
 __PLEASE REMEMBER TO SAVE YOUR WORK AND SUBMIT A PULL REQUEST WHEN YOU ARE FINISHED__
