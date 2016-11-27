@@ -155,6 +155,12 @@ Take a look at the MEETbook news feed. It's pretty static, right? For this lab, 
 * Start writing your own code in the function that's passed to ```$document.ready()``` (remove the 'i love cats' alert and put your own code).
 
 
+### Adding AJAX Functionality
+Read through the W3Schools [documentation on AJAX](http://www.w3schools.com/js/js_ajax_intro.asp) to understand how to create a basic AJAX operation.  Add a button to change the background color of the webpage
+
+
+
+
 ## Part 4 - Extra Practice 
 Check out some more really cool [JavaScript Exercises](http://www.w3resource.com/javascript-exercises/) that you can implement on your website.
 
