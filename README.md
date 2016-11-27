@@ -22,11 +22,11 @@ Perform each of these operations on a seperate line of code.
 ### 2. Data Structures
 !(Arrays_and_dictionaries.png)[path_goes_here]
 
-- Create an array called Days_of_the_Week containing the strings "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" and "Saturday" as entries.
+* Create an array called Days_of_the_Week containing the strings "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" and "Saturday" as entries.
 
--Translate all of these days of the week into Spanish by referencing their indicies. 
+* Translate all of these days of the week into Spanish by referencing their indicies. 
 Ex:  Days_of_the_Week[0] = "domingo";
-
+```
 0 - domingo
 1 - lunes
 2 - martes
@@ -34,13 +34,13 @@ Ex:  Days_of_the_Week[0] = "domingo";
 4 - Jueves
 5 - viernes
 6 - sabado
-
+```
 - Create a dictionary containing key/value pairs of ice cream flavors and their costs:
-
+```
 Vanilla : $1.99
 Chocolate : $2.49
 Strawberry : $2.25
-
+```
 Update the cost of Chocolate to $.99, create an entry for Pistacio at the price of your choice, and delete Strawberry from the dictionary. Print out your new dictionary.
 
 
@@ -57,7 +57,7 @@ It should either print out "Yes, today is <day>. You have to go to school." or "
 
 You are monitoring the price of gasoline in your neighborhood over the course of a year. Each month you store the price of a liter of gasoline in the list below:
 
-price_of_Gasoline = [5.88, 5.93,6.05,4.99,5.66,6.08,5.33,6.01,4.87,6.99,7.03,5.52]
+```price_of_Gasoline = [5.88, 5.93,6.05,4.99,5.66,6.08,5.33,6.01,4.87,6.99,7.03,5.52]```
 
 Write a for loop that will calculate how much we spent per month in gasoline if each month we bought 40 litres of gas.
 
@@ -72,6 +72,7 @@ right click anywhere in your screen and select "Inspect".  This will bring up a 
 Hover through the page and see if you can find the div container that holds the form for signing up for the newsletter.
 
 On the console tab in the developer tools type the following:
+
 ```document.getElementsByClassName('col-3 right')[0].style.display="None";
 "None"```
 
