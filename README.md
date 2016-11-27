@@ -12,7 +12,7 @@ __PLEASE REMEMBER TO SAVE YOUR WORK AND SUBMIT A PULL REQUEST WHEN YOU ARE FINIS
 You will be using a cool online editing program called JSFiddle to practice executing your code. Paste your answers in the answers.js file included in this lab.
 
 ### 1. Variables
-!(Variables.png)[https://github.com/meet-projects/Y2YL201617_Week5/blob/master/images/variables.png]
+![Variables](images/variables.png)
 
 Perform each of these operations on a seperate line of code.
 -Declare a float variable called "temperature" and set it equal to 98.6
